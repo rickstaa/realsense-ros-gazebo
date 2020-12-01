@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../test_ws/src"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#d6e901",
+			"activityBar.activeBorder": "#01929f",
+			"activityBar.background": "#d6e901",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#01929f",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"tab.activeBorder": "#d6e901",
+			"titleBar.activeBackground": "#a7b601",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#a7b60199",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"peacock.color": "#a7b601",
+		"python.autoComplete.extraPaths": [
+			"/home/ricks/Development/personal/realsense_gazebo_ws/devel/lib/python2.7/dist-packages",
+			"/opt/ros/melodic/lib/python2.7/dist-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/home/ricks/Development/personal/realsense_gazebo_ws/devel/lib/python2.7/dist-packages",
+			"/opt/ros/melodic/lib/python2.7/dist-packages"
+		]
+	}
+}

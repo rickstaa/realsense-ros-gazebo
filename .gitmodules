@@ -1,0 +1,8 @@
+[submodule "realsense_gazebo_plugin"]
+	path = realsense_gazebo_plugin
+	url = ../realsense_gazebo_plugin.git
+	branch = melodic-devel
+[submodule "realsense-ros"]
+	path = realsense-ros
+	url = ../realsense-ros.git
+	branch = development-gazebo
