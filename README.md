@@ -2,7 +2,7 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/af9c95b115fc49499bbc058f22cd4adf)](https://www.codacy.com/gh/rickstaa/realsense-ros-gazebo/dashboard?utm_source=github.com&utm_medium=referral&utm_content=rickstaa/realsense-ros-gazebo&utm_campaign=Badge_Grade)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/rickstaa/realsense-ros-gazebo)](https://github.com/rickstaa/realsense-ros-gazebo/releases)
-[![ROS versions](https://img.shields.io/badge/ROS%20versions-Melodic-brightgreen)](https://wiki.ros.org)
+[![ROS versions](https://img.shields.io/badge/ROS%20versions-melodic%20%7C%20noetic-brightgreen)](https://wiki.ros.org)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)](contributing.md)
 
 This repository contains all the code required to use both the simulated and real RealSense cameras with ROS. The simulated camera is implemented in [Gazebo](https://wiki.ros.org/gazebo). It contains the following submodules:
