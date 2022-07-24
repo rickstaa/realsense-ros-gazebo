@@ -62,3 +62,7 @@ roslaunch realsense2_description view_d435_model_rviz_gazebo.launch
 ## Acknowledgement
 
 This repository was created following the guide on the [realsense2_description](https://github.com/issaiass/realsense2_description) repository of [@issaiass](https://github.com/issaiass)
+
+## Contributing
+
+Feel free to open an issue if you have ideas on how to make this GitHub action better or if you want to report a bug! All contributions are welcome. :rocket: Please consult the [contribution guideliness](CONTRIBUTING.md) for more information.
