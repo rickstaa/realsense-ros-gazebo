@@ -7,15 +7,15 @@
 
 This repository contains all the code required to use both the simulated and real RealSense cameras with ROS. The simulated camera is implemented in [Gazebo](https://wiki.ros.org/gazebo). It contains the following submodules:
 
-- [realsense_gazebo_plugin](https://github.com/rickstaa/realsense_gazebo_plugin/tree/melodic-devel)
-- [realsense-ros](https://github.com/rickstaa/realsense-ros/tree/development-gazebo)
+-   [realsense_gazebo_plugin](https://github.com/rickstaa/realsense_gazebo_plugin/tree/melodic-devel)
+-   [realsense-ros](https://github.com/rickstaa/realsense-ros/tree/development-gazebo)
 
 ## Implemented cameras
 
 It currently contains the gazebo implementation for the:
 
-- [Realsense D335](https://github.com/rickstaa/realsense-ros/blob/development-gazebo/realsense2_description/launch/view_d435_model_rviz_gazebo.launch)
-- [Realsense D435i](https://github.com/rickstaa/realsense-ros/blob/development-gazebo/realsense2_description/launch/view_d435i_model_rviz_gazebo.launch)
+-   [Realsense D335](https://github.com/rickstaa/realsense-ros/blob/development-gazebo/realsense2_description/launch/view_d435_model_rviz_gazebo.launch)
+-   [Realsense D435i](https://github.com/rickstaa/realsense-ros/blob/development-gazebo/realsense2_description/launch/view_d435i_model_rviz_gazebo.launch)
 
 Feel free to add a [pull_request/issue](https://github.com/rickstaa/realsense-ros-gazebo/issues) might you need support for any of the other cameras.
 
