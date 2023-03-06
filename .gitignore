@@ -3,3 +3,4 @@
 
 # files to ignore
 *.code-workspace
+CMakeLists.txt
